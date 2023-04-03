@@ -19,25 +19,21 @@ That's 'what' you can do with *geek*:
 
 ### Examples
 **Arithmethical operations**:
-___ 
-32 9 + .
-5.5 7 - .
-33.568 0.300054 *
-90 10 / .
-___
-**Variables**:
-'''
-pi 3.14 =
-r 8 =
-area r r * pi * =
-area .
-'''
-**User inputs**:
-'''
-a $
-b $
-a b - .
-'''
+- 32 9 + .
+- 5.5 7 - .
+- 33.568 0.300054 *
+- 90 10 / .
+#### Variables:
+- pi 3.14 =
+- r 8 =
+- area r r * pi * =
+- area .
+
+#### User inputs:
+- a $
+- b $
+- a b - .
+
 
 ## Notice!
 - **Spaces** are really *important* in geek!
