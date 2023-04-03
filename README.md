@@ -19,12 +19,12 @@ That's what you can do with *geek*:
 
 ### Examples
 **Arithmethical operations**:
-''' python
+___ 
 32 9 + .
 5.5 7 - .
 33.568 0.300054 *
 90 10 / .
-'''
+___
 **Variables**:
 '''
 pi 3.14 =
