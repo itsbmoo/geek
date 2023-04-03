@@ -39,3 +39,8 @@ That's 'what' you can do with *geek*:
 - **Spaces** are really *important* in geek!
 - The '$' sign is used for assigning values to variables.
 - When you declare a variable, it isn't stored in the stack! Make sure you call the variable into the stack before.
+
+
+
+
+## There are many errors in the code and even in the documentation. I will make changes from time to time.
