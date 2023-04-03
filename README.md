@@ -9,10 +9,16 @@ These are *geek's* highlights:
 - quite simple;
 - interpreted;
 - stack based;
-- uses [RPN](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (Revers Polish Notation)
+- uses [RPN](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (Revers Polish Notation);
 
 ### What you can do with *geek*?
 That's what you can do with *geek*:
 - basic operations;
 - assign values to variables;
 - user input;
+
+### Examples
+- Basic arithmethical operations:
+  '''
+  32 8 + .
+  '''
