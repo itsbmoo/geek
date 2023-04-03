@@ -18,7 +18,28 @@ That's what you can do with *geek*:
 - user input;
 
 ### Examples
-- Basic arithmethical operations:
-  '''
-  32 8 + .
-  '''
+**Arithmethical operations**:
+'''
+32 9 + .
+5.5 7 - .
+33.568 0.300054 *
+90 10 / .
+'''
+**Variables**:
+'''
+pi 3.14 =
+r 8 =
+area r r * pi * =
+area .
+'''
+**User inputs**:
+'''
+a $
+b $
+a b - .
+'''
+
+## Notice!
+- **Spaces** are really *important* in geek!
+- The '$' sign is used for assigning values to variables.
+- When you declare a variable, it isn't stored in the stack! Make sure you call the variable into the stack before.
