@@ -19,7 +19,7 @@ That's what you can do with *geek*:
 
 ### Examples
 **Arithmethical operations**:
-'''
+''' python
 32 9 + .
 5.5 7 - .
 33.568 0.300054 *
